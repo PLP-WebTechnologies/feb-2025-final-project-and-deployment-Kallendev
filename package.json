@@ -1,23 +1,10 @@
 {
-  "name": "feb-2025-final-project-and-deployment-kallendev",
+  "name": "feb-2025-final-project",
   "version": "1.0.0",
-  "description": "Build a fully functional web application. Apply HTML, CSS, and JavaScript concepts learned. Deploy the project using GitHub Pages, Netlify, or Vercel.",
-  "main": "script.js",
+  "homepage": "https://PLP-WebTechnologies.github.io/feb-2025-final-project-and-deployment-Kallendev",
   "scripts": {
-    "predeploy": "echo 'Preparing to deploy...'",
     "deploy": "gh-pages -d ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-Kallendev.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-Kallendev/issues"
-  },
-  "homepage": "https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Kallendev",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
